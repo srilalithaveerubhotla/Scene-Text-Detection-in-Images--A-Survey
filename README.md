@@ -1,5 +1,9 @@
 ### Scene-Text-Detection-in-Images--A-Survey
+
 This repo is gathering work of published medium article on Scene text recognition in images a deep learning era
+
+A short video is recorded on the explanation of the survey by screen recording in MAC PC.
+Video is chopped into different parts since the file is too large to upload github
 
 
 ### MEDIUM ARTICLE LINK ----
